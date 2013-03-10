@@ -18,7 +18,7 @@ $(document).ready(function(){
 
     //request our query from twitter
 
-    $.getJSON('http://api.tumblr.com/v2/blog/shitavisays.tumblr.com/posts/quote?api_key=X4Pd7vPQu1PCKvujMH9fU9QweEqTrXjDfC3uiCQLLydqBH9WkH&callback=?', function(data){
+    $.getJSON('http://api.tumblr.com/v2/blog/shitavisays.tumblr.com/posts/quote?api_key=XXXXX&callback=?', function(data){
 
         //loop over data and retrieve stuff we want from each result
 
